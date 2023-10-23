@@ -1,0 +1,10 @@
+ Volume in drive E is Fox
+ Volume Serial Number is CCF0-501C
+
+ Directory of E:\MyProjectGit_CICD
+
+10/24/2023  12:10 AM    <DIR>          .
+10/24/2023  12:10 AM    <DIR>          ..
+10/24/2023  12:10 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  47,977,009,152 bytes free
